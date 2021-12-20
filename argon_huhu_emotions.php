@@ -3,7 +3,6 @@
  * Plugin Name: Argon HuHu Emotions
  * Plugin URI:  https://www.ghostchu.com/wp%E6%8F%92%E4%BB%B6argon-%E5%91%BC%E5%91%BC%E8%A1%A8%E6%83%85%E5%8C%85/
  * Text Domain: argon-huhu-emotions
- * Domain Path: /languages
  * Description: 向 Argon 主题注册来自 半次元 的 “呼呼” 评论表情包
  * Version:     1.0
  * Author:      Ghost_chu
