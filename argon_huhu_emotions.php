@@ -10,7 +10,7 @@
  * License:     GPLv3+
  */
 
-    function add_more_emotions($emotionList){
+    function add_huhu_emotions($emotionList){
 		$assets_dir = plugins_url( 'assets/', __FILE__ );
         array_push(
             $emotionList,
@@ -51,5 +51,5 @@
         );
         return $emotionList;
     }
-    add_filter('argon_emotion_list' , 'add_more_emotions');
+    add_filter('argon_emotion_list' , 'add_huhu_emotions');
 ?>
